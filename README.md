@@ -1,2 +1,1 @@
-Programma PRODUTTORE CONSUMATORE (con thread)
-
+# Programma PRODUTTORE CONSUMATORE (con thread)
